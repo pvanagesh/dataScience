@@ -1,0 +1,940 @@
+FULL STACK DATA SCIENCE -- 8:30AM (9th mar)
+**************************************************************
+- About Naresh IT techology  
+- About me 
+- Zoom link ::  https://zoom.us/j/81758545906 (10 days -Absolutely Free) (You can refer to your friends as well)
+- Who can learn this course & which type of learners will join the session. This course is excellent for --> 
+ ( Fresher || IT professional || Non IT professional || Students || Leader || Director || Manager ) - 
+ - Various Institutes are available in the world  	
+- 4 months Course content , Regular class notes , Recording - I will share the DRIVE where you can access
+- Which website is very very important to learn datascience is KAGGLE.COM // GITHUB.COM .  you can become freelancer as well // Also you can earn your part time as well.
+- Who are elligible to learn this course -- Refer the powerpoint slide
+- What Type of jobs are available after complete this course
+- PLACEMENT 
+- Intrenship projects
+- About Certification // google certified // microsoft certified // tcs certification // IBM certification
+- Many (learners / students) are Fresher -- looking for placement || experience student -- Looking for career  transition || IT guys ( Manager/Leader/ Director - They gain the knowledge and aquired busines project) Java- .Net- Testing engineer - Database engineer - career transition)
+- How to start code & how to expert coding for datascience
+- Why only datascience course & why not other course
+- Topics I will cover this session ( Syllabus Copy)
+- Resume preparation
+- Student placement along with their job offer and package
+- Job opportunity in the world
+- Why many people are interested for datascience / All reserch paper are into datascience only 
+- Duration - 4months, Class timing (8:30AM - 10AM) Recording (10 days I share the recorind) 
+- To whom we need to contact if you have any issue
+- Capstone projects || BFSI projects 
+- Non technical student || Career Gap ''employee or student learn this course 
+************
+-- Q & A --> at last (45 min) 
+today is 1st i want you to understand just listen and you can discuss me 
+1- 8:30 am - 10 am 
+2-  https://zoom.us/j/81758545906 ( refer to them ) 
+3- naresh it ( nascom) - IOG 
+4- K. PRAKASH SENAPATI 
+- 15+YR experience still i am working 
+- data sceintist, data architecture, lot of internation , upgrad, NIT 
+- you tube ( 
+data science || artificial intellgence || machine learning || stats || pyton | r || nlp || pyspark || tableau 
+databricks || hadoop || azur ml || dl || opencv || 
+
+mon - frida @ 8:30am - 10 am 
+
+data never -- data engineer, data scientstin 
+
+call depends on resume
+7ytr, 8yr -- freher (how to fill the career gap) one-one 
+
+datat sciecn e== ml + ai + nlp + stats + ba + da + python + tableau + cloud 
+
+java, .net . s
+
+iit not calls man 
+learn the new trac
+freelancer 
+
+
+data produce -- internet 
+
+structured data & Unstructured data 
+
+AI 
+
+
+PROJECT -- OBJECT TRACKING -->
+2 wheeler, 4 wheeler -- fast vechinel on nh road 
+
+1- camera install at NH 
+2- data extracted or mp4 extarct camera
+3- lets load that video to the program ( python) (spyder) 
+4- package opencv 
+5- video is loaded to the programe
+6- how to detect the movable object from an video 
+7- 
+
+amazon  box  - pkg 
+mobile pack - module 
+unpack - mobile 
+
+pkg -- collection of module 
+module - collection of function 
+
+pkg vs module vs function 
+
+from dmart.cloth import jeans 
+
+Jeans -- Functin || Cloth - Module || Dmart - Pkg 
+
+money speak || salary spe
+
+==== 
+- day1 :
+introduction of me & nit
+example 
+- object tracking project
+- pkg, module, function 
+- video data ( unstructed data) 
+- some of placed student list 
+- who are eligible to learn this course
+- timeing 
+- q & A
+
+- QA (15yr)
+15yr back no data science job 
+15 yr back no internet 
+every compnay -- jd ( relavant experine in datascece)
+3yr in datasceince
+1 - eda, 1 ml, 1 nlp, 1 - table visualzion 
+15yr ( few compnayh) 
+-- 6th or 7 day -- python 
+-- pyhton is create only of non technical student 
+-- java, ( attend )
+company -- java develp , .net develo
+data engiern, datasecince 
+data enginer few concept required indata scl 
+- haddop, databrick, clouse 
+
+Roadmap -->
+python -- eda -- SQL -- statistics -- machine learning - deployment of ml model production server 
+- nlp - R - dl - nn model -- pyspark -- databricks - tableau -- azur ml - hadoop 
+
+TABLEA + SQL + EXCEL -- BUSINESS ANALYST
+TABTLEU + SQL + EXCEL + PYTHON -- DATA ANALY
+
+BA - DA - DATA SCEINTIST - DATAENGINEER 
+
+TIME SERIES -> 
+- AR, MA, ARM 
+-- REGRESSION 
+TIMER SERI WITH RNN 
+
+Pranasa -- How linear algebr is connect to ml algorithm 
+*************
+Offline team non technical question -- mr. valli-->
+Online team non technq question -- rejeswari -->
+techniq quesiton teck care by eme
+while you practi if you face any issue - lab mentor 
+******13th******
+data science architecture 
+-- organization project ( project architecture)
+data science 
+strucuted data = supervised learning = labeled data
+unstructed data = unsupersvised leanring = unabled data 
+
+supervised learnving vs unsupervised learning 
+
+machine is learning from the historical data -- structued data 
+lot packages -- panda, matplotlib, seaborn, sklearn, tensorflow, gensim, pytorch, opencv, yolovv3
+
+NLP is the natural language processing -- nltk , spacy 
+chatgpt ( build on top of nl p& rnn)
+
+
+text -- we will build NLP model 
+image, video, speech, streaming, live video -- deep learning model 
+number -- ml model 
+DA vs BA vs DE vs DS 
+
+BUSINESS ANALYST -- DATA ANALYST --- DATA ENGINEER --- DATA SCIECNE (FULL STACK DS)
+DATA ANALYS, DATA ENGINEER, BUSINESS ANLAY -- HISTORICAL Data
+
+db ( 2016 to 12th march 2023) -- 
+
+data science -- understand the past & predict the futured 
+
+dmart -- 
+2018 - 100 jacket
+2019 - 150 
+2020 - 200
+2021 - 300 (100) - 200 
+2022 - 50 ( large customer )
+2023 -- ?????? mean each yr to predict seasonal prediction 
+
+RAW DATA vs CLEAN DATA 
+
+PROJECT - HAND GESTURE SIGN RECOGNITION 
+
+DATA STRUCTE & ALGORITHM -- NO NEED TO SCARE 
+WE ARE NOT DEVELOPED THIS ALGORIYT USING C& JAVA & C## 
+c developer 
+java develp 
+data sceicne
+data engineer
+testing 
+
+data science --- 
+
+SKLEARN --> LINEAR ALGEBRA, CALCULUS, DATA STRUCTE, ALGORIYTM ,MATH -
+
+from sklearn.tree import decissiontreeclassifier 
+
+SKLEARN IS INSTALLED BYDEFAULG
+
+once we build the model backend
+after we test the model 
+creaty a frontend 
+website ( user frontend (website)  
+payment gateway 
+business will grow
+
+be + fe == full stack 
+be to fe using some of api ( flask ) cloud 
+basic to expert 
+
+application server ---> 
+production server  --- >
+
+www.amazon.com 
+( 3am) 
+server is down lost 
+2cr user logint to server same time ( havey load ) server 
+
+--- ias || ips || ca || post 
+
+DATA SCIENCE 
+MIL
+
+suggest to the farm organization 
+tcs 
+jd -- job descrip prepar you resume ( you get interview call) 
+please changfe your resume 
+
+live projects---> 
+
+when ever youy have excel sheeth -- there data cince or ai 
+which domain does not 
+data -- pandas, numpy, matplotli, seaborn 
+
+multip billin rows || still if the data can not handa -- big data tool (pyspark, databricks) hadoop
+
+AMAZON  -- AWS many services
+MICROSOFT -- AZUR
+GOOGLE -- GCP 
+SNOWFLAKE - snowflake 
+
+SKLEARN PACKA -- MATH AUTOMATICAL PKC
+CUSTOMRER FEEDBACK ANLASI 
+AI to network as well
+busine + skill ( 3yrs wok data nalyst) 
+-- mathc ( 
+-- interview ( math formula)
+how to use this in your projects
+****14th*****
+introduce to freelancer
+list of software
+nlp chatbot project
+speech recogntion
+how ai is used in day to day life
+
+-- SKLEARN ( math formula + data strucute + algorithm )
+
+base level code
+
+FROM SKLEARN.NAIVE BAYES IMPORT GAUSIAN NB 
+
+PYTHON -- pycharm, vscode, 
+data sicen & big data - ANACONDA 
+
+when you install anaconda lot of framework or packaged installed automati 
+
+open source -- free software 
+
+
+when you deployment any code to production no free software is allowed 
+company has to purchase this 
+when you practi se& learning 
+
+step-1 : google
+step-2 : anaconda 
+step-3 : click on the first link ( https://www.anaconda.com/) 
+stpe-4 : based on your os please download the software file
+step-5: Install the software 
+step-6: START  - program - ANACONDA folder 
+step-7 : expand to anaconda folder ( anaconda navigator || anaconda prompt ||jupyter || spyder)
+stpe-8 : anconda navigator ( understand this one)
+step-9: anacond prompt (test this code ---> pip install numpy) 
+step-10 : click on jupyter notebook ( .ipynb) interactive pyton notebook) 
+step-11 : new - ipyton3 - check the version like (import sys & sys.version) --> uypdat me tomorrow
+step-12 : click on spyder --> .py ( file - new file ) 
+
+.doc | .xlcs ||
+
+google colab ===>
+ system - 8gb 
+ 
+ big data tool -- spark, hadoop 
+ 
+ java + spark 
+ python + spark = pyspark 
+ 
+ *****15th********
+ 
+ swiggy -- 100 question and answer 
+ banking -- 
+ 
+ 
+
+ rasa 
+ googledialogflow -- 
+ luis 
+ bot -- 
+ 
+ how to install nltk || spacy -- later of
+ kaggle.com
+ datatsceicne -- world 
+ kagle.com
+ 
+ 
+ -- BACKEND MODEL --> CHATBOT USING NLTK LIBRARY
+ - FRONTEND --USING HTLM & FLASK API 
+ 
+ 
+ END TO END PRACTICE AFTER COMPLET ML ALGORITHM 
+ 
+ -- excel, pdf, word- 2l perm  
+ -- braint stat thin ustinl , apply in relave time -- code ( 
+
+globe data scientisti
+
+more job opportinity 
+
+every student in they have 
+
+introduce to pythoon 
+
+python is object oriented programing langaue 
+
+15yr 
+-- same techniq 
+-- client 
+-- advanely 
+
+----- 
+if you enrool this cour 
+--- iw ill teach python 
+
+python ( addition learning) 
+unix 
+
+without recordin g-- 15k INR 
+WITH RECORDING - 20K inr ( non technical  ) 
+
+technique to cleaer the interview 
+*****16th*******
+data sciencen == ML + NLP + DL + NN + AI 
+
+
+we build all the model using python programing languare || r programin || pyspark
+
+
+90%  -- build ds model using python 
+data is bigdata -- pyspark programming langage
+
+
+ml vs ds || ai vs ds | nlp vs datat
+
+cricket = bat + bow + filed 
+bat vs 
+
+data sciecne ( 1hour ) = 
+if data is numeric -- machine learning model -- framework (sklearn) 
+if data is text -- NLP (AI ) -- framework (NLTK  | SPACY || STANDFORD NLP)
+internet, website, whats , insta, twiter -- sentivment analysis 
+if data is image, video, streming, sensor -- deep learnign model ( TENSORFLOW, KERAS, PYTORCH, OPENCV, YOLO) 
+
+EACH & EVERY PROJECT IN DATA SCIENCE OR AI -- we will build in python programing languyge 
+
+what is model ??
+regression model & classification model 
+
+regression -->
+
+stock market prediction 
+gold price prediction 
+house price prediction 
+forecasting 
+
+2023 -- forecasting 
+2022 -- 100 mil 
+2023 --  200 mil 
+regression algorithm '
+
+classificaiton model -->
+india win | loss
+spam email | non spam email
+hot | cold
+cat | dog
+happy || sad
+profit || loss 
+
+what ever business -- regression, classificaotn, clustering (( structured) 
+ai ( dl model) 
+PYTHON || R || PYSPARK 
+
+DATA ANLAY -- NUMPY, PANDAS, MATPLOTLIB, SEABORN 
+IOT -- ai + electiront 
+
+2023
+5-6yr backa -- python started rule in the world 
+interview who will data science 
+
+DATASET = EXCEL SHEET 
+COLUM NAMES = ATTRIBUTE = FEATURE 
+NUMERICAL ATRRIBUTE 
+CATEGORICAL ATTRIBUTE
+
+IDENTIFIER = OBJECT = VARIBLE 
+
+SYNTAX ==>
+ <variable name> = <value> ||  idnetifier name = value ||  objec name = value 
+
+a = 3 
+a- identifier 3- value 
+syntx error 
+
+RULE & REGULATION TO DEFINE PYTHON IDENTIFER --->
+
+1- assing identifier alphabet  (upper case & lower case)
+2- we call the identider with the name which you declaare earlier 
+3- Ientifier can not start with digit (( 1a -- is not alowed || a1 - allowed)
+4- special character are not allowed to declare identifier
+5- identifier cannot be a case sensitive 
+6- identifer cannot be researved word or key word 
+7- identifier no length limit 
+8- identifier only _ is allowed 
+
+python is object oridnet projgra
+
+every scenat we will use identifer or objct 
+
+Python Keywords: An Introduction
+Value Keywords: True, False, None.
+Operator Keywords: and, or, not, in, is.
+Control Flow Keywords: if, elif, else.
+Iteration Keywords: for, while, break, continue, else.
+Structure Keywords: def, class, with, as, pass, lambda.
+Returning Keywords: return, yield.
+Import Keywords: import, from, as.
+
+
+addition -- python & unix is free
+python 
+
+ERROR TYPE -->
+SYNTAX ERROR
+NAME ERROR 
+
+-- 80 student place -- 50 s
+
+50% reim
+15k -- 7500 
+
+37% || 54%, || 45%, || 80% 
+
+
+step-1 : google
+step-2 : anaconda 
+step-3 : click on the first link ( https://www.anaconda.com/) 
+stpe-4 : based on your os please download the software file
+step-5: Install the software 
+step-6: START  - program - ANACONDA folder 
+step-7 : expand to anaconda folder ( anaconda navigator || anaconda prompt ||jupyter || spyder)
+stpe-8 : anconda navigator ( understand this one)
+step-9: anacond prompt (test this code ---> pip install numpy) 
+step-10 : click on jupyter notebook ( .ipynb) interactive pyton notebook) 
+step-11 : new - ipyton3 - check the version like (import sys & sys.version) --> uypdat me tomorrow
+step-12 : click on spyder --> .py ( file - new file ) 
+
+DOWNLOAD FAILED TO CREATE MINUS ERROR WHILE INSTALLATION ON ANACONDA
+https://repo.anaconda.com/archive/
+
+DOWNLOAD WINDOWS FILE =----->
+********17th********
+Tableau 
+BI -- business intelligence tool
+
+prepre the organization dashboard
+
+tcs --> mnc
+india, aust, nz, accro country
+nd , nz 
+
+tableau=
+powerbi
+qqlick
+shiny 
+sap bo
+etc 
+
+80k per user per anum
+40 yr -- 
+automize your process using tableau frontednnd & backend is db 
+-- no rquired any codeing knowledge, sql query language, (thats ok)
+
+data science model we will do future forecasting 
+
+future forecasting graph you can see that in your tableau dashboard 
+
+numerical data vs categorical data 
+
+6pm one student got placed research inter @ isro 
+
+japan -- metto 
+train -- predict next week, next month 
+usecase -- fault detection for train 
+you will build ml model   
+
+predict next week redict - wi
+that has to show case in tableau 
+
+tableau - datascience 
+licaine 
+
+= python idenitifier 
+== reserve words or key words 
+
+how many identifer we have 
+python -- 35 keywords
+
+reserved word || keyword
+
+inbuild function 
+
+inbuild function || user defined fuction 
+
+-- expering pythondeveloper || 10 yr, 15yr, 20yr --> just allowe me
+- frehser|| non techni || new statudent 
+-- when you will zero division error ( T/F)
+-- can you assign varible a = 2
+-- how many keywords -- 35 
+-- system version are update -- 36, 37 keywords
+
+q- i wnat to print the list of keywords ?? 
+
+pandas - librar, package to create the dataframe 
+python index begins with 0 
+data analayis using pandas packages 
+
+import keyword
+keyword.kwlist
+
+
+faang -- maang ( meta, amazon, apple, netflix, google) 
+walmart -- 5lpa ( 2% compayar) 
+
+data science -- fantastic 
+-- our time 
+- practi 
+- discuss wit me 
+-- reusme & attend interivew 
+-- offer 
+-
+
+-- online & Offlier --- not for today for life time 
+-- 4.6 
+-- online we have mentors 
+india online team ( 2pm -4pm) (mon-sat)
+out of india -- (mon -sat) --> 9:30am- 11am || 5pm-6pm
+clas (8:30am - 10am) (mon-fri)
+
+
+offline mentor ( lab -- 9am - 6pm)
+
+8:30am - 11:30am (12pm)
+6pm-7:30  8pm
+
+-- zoom (  zoom)app 
+
+technical question 
+
+non-te techn (500project) 
+5project 
+-- 80 project
+
+--business analyst job role 
+-- poc using data tfor predicting future sale project based on histroicdata
+-- 2015 - 2023 (db)
+- 2015- 2022( traing
+0223 -- modle
+model wil predict the future -->
+
+model -- tomore 14ste will ent
+day after -- 12 student
+predi- 14
+12studen
+90% forecast 
+*****20th******
+
+the lease who joined for the first time 
+-- lets fix all those things 
+-- excel = dataset 
+-- columns name == attribute = feature = variable 
+
+a= 5
+a - identifier || 5- vale 
+
+- PYTHON IDENTIFIER -- COMPLETED
+PYTHON DATA TYPE -->
+
+-int 
+-float
+-string
+-complex
+-bool
+
+inbuild || user define 
+
+to install the packags in python -->
+
+PIP INSTALL <PKG NAME>
+CONDA INSTALL <PKG NAME>
+.doc - word | .xlcs -- excel || .ipynb -- interactive python notebook
+INTEGER DATATYPE (INT) -->
+int - number with out decimal 
+integer has some of the base form -->
+
+uni -1, bi - 2, tri-3, qudra-4, penta-5, hex-6,sept-7,oct-8
+
+type()  -- it will print data type of an identifier
+id() -- it will print address of thememory location 
+len() -- to read the no. of rows from the dataset 
+int we completed 
+
+where you have excel sheet - ba ||| da || bi | datasceince 
+
+local db 
+-- wipro , mnc ( recrods are import from local db to wipro db) 
+
+data ware housing ( team meanin raw data from various resources) 
+data wared - ETL ( INFORMATCIAL) 
+-- HIRINT ( FRESHARE ETL )
+
+
+data analyst, sql, data sceince, ai, big data, haddop, jav, c, c++, tableau , ai. 
+
+highest package -- 
+8kp, 3lpa, 80lpa 
+float -- binarry & octal is not allowed but integer it is allowed
+
+float only e letter is allowed 
+
+complex --> 
+math application 
+a + bj 
+a- real part | b - imaginary part 
+
+-- lot of quetion will clarrify when you do the preacticel 
+
+in complex data type -- imaginary part cannot be binary or octal, 
+in complex data type -- real part can be binary or octal 
+
+research on the error 
+
+jr. develper -- sr. develper 
+
+jr.devlper -- fix the bug 
+
+-- who enrolled -- admin wil lshare the credtain to your personal email id 
+login you can join to google classroom 
+from tomore i will share all the regualr class note, task, project to the classrrom 
+- technial cquest == reach out 
+
+ranjit query -- unable to reach to admin 
+sonali -- unable to reach admin ( online & offline)
+ *****21st*********
+ -- python idenitifier || identifier = object
+ -- python data type ( int || float || complex )
+-- complex data types imaginar part cannot be binary or octal
+-- complex dat atypes real part can be binary or octal
+a + bj 
+x + yj 
+
+datatypaes --->
+Int || float || complex 
+
+BOOL DATATYPES -->
+
+T | F 
+t/f -- you will get zero division error 
+
+constant & variable 
+
+string --> 
+
+enclose with ' ' || " " || '''   '''
+text data -- we can use string data types
+
+BASIC DATA TYPES WE ARE COMPLETED -->
+INT | FLOAT | BOOL | COMPLEX | STRING 
+
+a = 12 | b = 1.3 | c = True | d = 10+50j | e = 'nit' 
+===TYPE CASTING ====
+how to conver 1 data tyep to other 
+argument = parameter 
+
+car(engine, wheel) --> we can pass 2 argument
+schole(12) --> 1paramete  --> 1 argument
+car(bmw, audi, mer, fer) --> 4 argument
+
+=== float, string, bool, complex data type to ---> int 
+float - int || complex - int (error) || bool - int || string -int || 
+
+ int - float || complex - float (error) || bool - float || string-float 
+ 
+ int - complex || float - complex | bool - complex | string - complex 
+ 
+ int - bool | float - bool | str - bool | complex - bool
+ 
+ int - str | float-str | complex - str | bool-str 
+ 
+ ---- HOW TO CHANGE JUPYTER THEME -- 
+ 
+ 1- ANACONDA PROMPT 
+ 2- PIP INSTALL JUPYTERTHEMES || CONDA INSTALL JUPYTERTHEMES
+ 3- jt -t  onedork -T 
+ 4- refresh 
+ Available themes:
+onedork
+grade3
+oceans16
+chesterish
+monokai
+solarizedl
+solarizedd
+******23rd*********
+from today onward only enrolled student i will continue the classes
+- i want every one to registered to classroom 
+-- 3student got placed so far from 6pm batch 
+steps --> 
+1- admin will send the link just join the link
+2- friday how to connect through nit app ( i share the document once again)
+3- drive -- click pane ( right side top corner) -- scroll down ( fsds 8:30am) - just click & Join 
+----
+python introduction
+python identifier
+python datatypes
+type casting from one data type to other dataype 
+---
+python interpreter -- every line if you execute 
+vs pyton compiler -- 
+
+in the code if you have 10 line -- run at once -- compiler 
+python data structrued
+
+a = 10 ( 1 argument ) 
+datatype - you can pass only 1 argument 
+datastrucure - you can pass more then1 argument 
+
+german_brand = 'bmw' ---> data type
+
+g_brand = 'bmw', 'volk',;mer' --> data structured 
+
+matrix --> collection of rows & columns ( table) 
+
+organization --> database -- table, 
+
+
+you are applyin job not only for indiea but for globe 
+
+
+matrix -- collection of data structure 
+data structure -- collection of data type 
+data types -- int, float, bool, str, complex ( combination of all datatype) 
+
+m23 -- cat + number ---> 
+data cleaning (make all the attribute to proper format) --- data cleaning is very very important
+before we visualization befor we build the model 
+intro to raw data & clean data
+-- every visualization & Model build has to build on clean data 
+
+DATA STRUCTURE -->
+LIST 
+TUPLE
+SET
+DICT
+--- LIST --- 
+l.append() -- Append object to the end of the list
+AttributeError: 'list' object has no attribute 'add'
+list house has no concept called add but we have append 
+python index begins with 0
+.remove() -- remove first occurrence of value. 
+
+INDEXING --> (position of the elemnt( numer, text) 
+--------
+- FORWARD INDEXING (count from left - right) || index counting from 0 
+- BACKWARD INDEXING (count from right to left)  || index countring from -1 
+
+name || attribute || syntax error | zero || type 
+
+SLICING -->
+---
+ : - print the total element 
+ 
+ :4 --> print till 4th element ( n-1 formula is applicable)  ||| number after slicing
+ 
+ 4: --> print the element from 4th index  ||| number before slicing 
+ 
+ HOW TO DOWNLOAD THE CLASS NOTES FROM THE CLASSROOM -->
+ 1- download winrar file  --> https://www.win-rar.com/download.html?&L=0
+ 2- gmail inbox - click the file which you recived from nit 
+ 3- click on attached file --> you will see 3 dot top of right corner --> open in new window --> download
+ 4- download folder --> Extract the folder --> you will recieve every day file, projects, task, class notes
+ 5- if you find any error take screen shot & Post that error in the classroom 
+ 6- if anyone view if you know the answer then please respond to your friends query
+ 7- do not post any other thinkg except learning ( except the class)
+ 8- offline team any question -- if you want to go to lab ( i will share the location )
+ 9- online team i will tell you the link tommort ( indina student 2pm-4pm) link will active 
+ 10- out of india student --> 9:30am -- 11 am || 5pm - 6 pm 
+ 11- feel free ( enjoy the course ) 
+ 12- please do no tcreate whatsap 
+ ******24th****
+:3 -- print the element till 3rd index ( n-1)
+3: -- print the element from 3rd til end 
+: - print all element
+
+advanced slicing  :- 
+LIST DATA STRUCTURED --> 
+---
+Mutable || changeable 
+[]
+append is allowed 
+duplicated are allowed 
+add is not allowed
+mutiple data types are allowed 
+Remove is allowed
+Index is allowed 
+slicing is allowed
+
+TUPLE -->
+------
+
+xyz = (123, cizp)
+
+ Immutable | unchangable 
+()
+append is not allowed
+duplicats are allowed
+add is not allowed
+mutiple data types are allowed 
+Remove not allowed
+Index is allowed 
+slicing is allowed
+
+
+python book please refer to LIST & TUPLE from page # 253 (( pg# 19)
+
+range you cannot pass more then 3 arguments 
+range you cant pass float argument 
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**********************************
+- Full Stack Data Science & AI Course Complete Certification by NIT
+- NASSCOM Data science certification 
+- Job Guarantee Program
+- Self-Paced Learning
+- 50+ hands-on industry real-time projects
+- Doubt clearing live classes
+- Doubt clearing through offline & online mentor 
+- Assignment in all the modules
+- End-to-End Projects
+- Resume Building
+- Career Guidance
+- Interview Preparation
+- Regular Assessment
+- Job Fair & Internal Hiring
+- Mock Interview Anytime
+- NIT Labs Access
+***************************
+Full Stack DATA SCIENCE & Al @ 8:30 AM  Mr. Prakash Senapathi
+Day-1 https://youtu.be/P-AqQC6upDI
+Day-2 https://youtu.be/T-HcgViz_jo
+Day-3 https://youtu.be/etISCpHvozg
+Day-4 https://youtu.be/Z1cUfKVTh64
+Day-5 https://youtu.be/W1vHCR8wcig
+Day-6 https://youtu.be/LqqdU3wBdBc
+Day-7 https://youtu.be/Y5gEoDEogV8
+Day-8 https://youtu.be/d7vIkqdFN5M
+
+**************************
+for online team you can reach out to Rajeswari -- Contact 7337313417
+for offlien team you can reach out to valli -- Contact 9154861180
+**************************
+
+Data science & Ai  by Mr. Prakash senapathi @8.30am demo  09.03.23 onwards
+
+Dear Students please pay the fee for Data science & Ai 
+
+Data science & Ai  FEE * 15000/-* without video
+20000/-* with video
+
+Bank Details :-
+Name: Naresh I TECHNOLOGIES
+Bank Name ICICI
+CA Account no
+111305500637
+IFSC code ICIC0001113
+Ameerpet Branch
+
+Note: If you want to use Phonepe or Google Pay then follow the below steps.
+
+You can find the option Bank Transfer in Phonepe and Google pay. There you can enter our bank account number and you can transfer the amount.  Please mention your Name on the receipt and send your email id , course with  timings and
+For payment confirmation  send 
+ payment screenshot to wats up number 7337313417 email to support@nareshit.com.
+  
+For any Queries, You can Call us on 7337313417 email us to
+ support@nareshit.com 
+
+Please share your feedback to Rajeshwari admin
+
+Thanks and Regards 
+Rajeshwari batch admin
+For quick Response do wats up msg 
+7337313417
+
+
+
+
+
+
+
